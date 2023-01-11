@@ -11,9 +11,9 @@ title                    : "Daniel Chui"
 title_separator          : "-"
 name                     : &name "Daniel Chui"
 description              : &description "Graduate Student at University of Alberta"
-url                      : https:/daniel-chui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https:/dchui1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dchui1/daniel-chui.github.io"
+repository               : "dchui1/dchui1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Daniel Chui"
   avatar           : "profile.png"
-  bio              : "I'm a graduate student at the University of Alberta working on behavioural game theory with Dr. James Wright"
+  bio              : "I'm a recent MSc graduate looking for roles in the ML space. I completed my MSc at the University of Alberta
+                    under Dr. James Wright under behavioral game theory"
   location         : "Edmonton, Alberta, Canada"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
