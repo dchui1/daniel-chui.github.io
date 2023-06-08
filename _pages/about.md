@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Daniel Chui's webpage!
+Daniel Chui's webpage

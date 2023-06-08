@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniel Chui"
 title_separator          : "-"
 name                     : &name "Daniel Chui"
-description              : &description "Graduate Student at University of Alberta"
+description              : &description
 url                      : https:/dchui1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dchui1/dchui1.github.io"
@@ -82,12 +82,16 @@ analytics:
 author:
   name             : "Daniel Chui"
   avatar           : "profile.png"
-  bio              : "I'm a recent MSc graduate looking for roles in the ML space. I completed my MSc at the University of Alberta
-                    under Dr. James Wright under behavioral game theory"
+  bio              : "I'm a recent MSc graduate currently seeking Machine learning opportunities. I completed my MSc at the University of Alberta
+                    under Dr. James Wright studying behavioral game theory.  Prior to that, I have worked in the tech industry in a variety of roles 
+                    from tech support to consulting. Most recently, I was a full stack developer at a few startups, most notably at Trust Science.
+
+                    In my spare time I like to cook and play sports.
+                    "
   location         : "Edmonton, Alberta, Canada"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/citations?user=G3WoAPoAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
